@@ -1,2 +1,2 @@
-# roomybookstore
-Books project integrate with website and database
+# Roomybookstore
+Books project integrate with website and database.
